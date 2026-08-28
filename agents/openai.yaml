@@ -1,0 +1,8 @@
+interface:
+  display_name: "ENDGAME"
+  short_description: "High-rigor orchestration for substantial tasks"
+  brand_color: "#8B5CF6"
+  default_prompt: "Use $endgame to complete this substantial task with explicit acceptance gates, verification, and adversarial review."
+policy:
+  allow_implicit_invocation: false
+

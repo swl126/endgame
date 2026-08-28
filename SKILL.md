@@ -1,3 +1,8 @@
+---
+name: endgame
+description: Orchestrate substantial, high-rigor tasks by defining acceptance gates, retrieving relevant context, routing only necessary specialist capabilities, executing completely, testing actual outputs, and adversarially checking completion. Use when the user explicitly invokes ENDGAME or requests the highest-rigor workflow; do not use for routine or trivial tasks.
+---
+
 # ENDGAME — High-Rigor Orchestration Skill
 
 ## Purpose

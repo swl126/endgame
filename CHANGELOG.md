@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 - 2026-08-27
+
+- Added valid Codex skill frontmatter and explicit-only invocation metadata.
+- Added automated repository validation.
+- Standardized the acceptance-gate template path and removed duplicate artifacts.
+- Added contribution and security policies.
+- Relicensed the project under GPL-3.0-or-later.
+
 ## 1.0.0 - 2026-08-24
 
 Initial public release.

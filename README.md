@@ -92,11 +92,15 @@ A compliant ENDGAME run should never claim success merely because code was writt
 ## Repository contents
 
 - `SKILL.md` — portable skill definition
+- `agents/openai.yaml` — Codex display metadata and invocation policy
 - `templates/acceptance-gates.md` — reusable completion-gate template
 - `examples/usage.md` — example invocations
-- `LICENSE` — MIT License
+- `scripts/validate_skill.py` — repository validation
+- `LICENSE` — GNU General Public License v3.0
 - `CHANGELOG.md` — release history
 
 ## License
 
-MIT. Use it, fork it, modify it, ship it.
+Copyright © 2026 Skylar Lyons.
+
+ENDGAME is licensed under the **GNU General Public License v3.0 or later** (`GPL-3.0-or-later`). You may use, study, modify, and redistribute it under the terms of that license. See [`LICENSE`](./LICENSE).
